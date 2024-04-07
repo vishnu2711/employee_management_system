@@ -13,3 +13,7 @@ MySQL
 ### Softwares requried
 Xammp Server ,
 Notepad++(or any other text editors.)
+### Usage of this project 
+Once you download the project , to run this ussing the Xammp server you need to do some modifications in edm.sql file and input.php files. <br>
+You need to change the database and table name according to you. 
+
