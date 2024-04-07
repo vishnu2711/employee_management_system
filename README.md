@@ -8,7 +8,7 @@ User need to  enter the unique id like EmpID .So that particular ID record will 
 HTML,
 CSS,
 PHP,
-### DAtabase 
+### Database 
 MySQL 
 ### Softwares requried
 Xammp Server ,
