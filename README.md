@@ -17,3 +17,7 @@ Notepad++(or any other text editors.)
 Once you download the project , to run this ussing the Xammp server you need to do some modifications in edm.sql file and input.php files. <br>
 You need to change the database and table name according to you. 
 
+Finally you guys can access our project through this link.
+http://empmanagementsystem.42web.io/?i=1
+
+
